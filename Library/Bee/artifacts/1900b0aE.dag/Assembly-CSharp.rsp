@@ -378,6 +378,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/PlayerData.cs"
+"Assets/Scripts/SaveLoadSystem.cs"
+"Assets/Scripts/StandItem.cs"
+"Assets/Scripts/World.cs"
 -langversion:9.0
 
 /deterministic
